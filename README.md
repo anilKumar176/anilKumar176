@@ -1,5 +1,5 @@
 # 💫MUDAVATH ANIL KUMAR:
-Hi 👋 I'm Anil Kumar<br><br>🎓 MCA student at MANIT Bhopal  <br>💻 Full Stack Developer (MERN Stack)  <br>⚡ Strong in Java, JavaScript, and problem-solving  <br><br>I enjoy building real-world web applications with secure authentication, real-time features, and clean UI/UX.  <br>I’ve worked on projects like **LearnHub**, **PrepTalks**, and **RaktDaan**, focusing on scalability and usability.<br><br>📌 Interests: Backend Development, System Design, DSA  <br>🚀 Always learning and building<br>
+🎓 MCA student at MANIT Bhopal  <br>💻 Full Stack Developer (MERN Stack)  <br>⚡ Strong in Java, JavaScript, and problem-solving  <br><br>I enjoy building real-world web applications with secure authentication, real-time features, and clean UI/UX.  <br>I’ve worked on projects like **LearnHub**, **PrepTalks**, and **RaktDaan**, focusing on scalability and usability.<br><br>📌 Interests: Backend Development, System Design, DSA  <br>🚀 Always learning and building<br>
 
 
 ## 🌐 Socials:
